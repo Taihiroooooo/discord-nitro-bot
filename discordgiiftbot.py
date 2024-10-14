@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord_slash import SlashCommand, SlashContext
 
 # Discord bot token (replace 'YOUR_TOKEN' with your actual bot token)
-TOKEN = ''
+TOKEN = 'MTI5NTE4MzkyOTczMjQ5NzQwOQ.GsFk-O.YjUzqmB6JGgDeehPap5lLJUVi-OOnYYKCsktws'
 
 # Define intents
 intents = discord.Intents.default()
